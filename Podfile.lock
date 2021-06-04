@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (3.1.9)
+  - MarqueeLabel (4.0.5)
+
+DEPENDENCIES:
+  - lottie-ios
+  - MarqueeLabel
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - MarqueeLabel
+
+SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+
+PODFILE CHECKSUM: 1cba57b3d975ea67fdadfc5ee27592c28c295caa
+
+COCOAPODS: 1.10.1
