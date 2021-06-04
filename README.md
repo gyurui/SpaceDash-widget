@@ -1,13 +1,5 @@
-![Version](https://img.shields.io/badge/iOS-13.0%2B-blueviolet)
-[![CD](https://github.com/pushpinderpalsingh/SpaceDash/workflows/CD/badge.svg?)](https://github.com/pushpinderpalsingh/SpaceDash/workflows/CD/badge.svg?branch=master)  [![CI](https://github.com/pushpinderpalsingh/SpaceDash/workflows/CI/badge.svg)](https://github.com/pushpinderpalsingh/SpaceDash/workflows/CI/badge.svg) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Forked from:
 
-[![Slack](https://img.shields.io/badge/Slack-black.svg?style=for-the-badge&logo=slack)](https://communityinviter.com/apps/spacedashworkspace/spacedash)
-[![Notion](https://img.shields.io/badge/Notion-grey.svg?style=for-the-badge&logo=notion)](https://www.notion.so/SpaceDash-193ad11fe7d54131b6dd0d34be6698f3)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/get_dash)
-[![Testflight](https://img.shields.io/badge/Testflight-blue.svg?style=for-the-badge)](https://testflight.apple.com/join/voEgmLv8)
-[![App Store](https://img.shields.io/badge/App%20Store-Coming%20Soon-orange.svg?style=for-the-badge)](https://testflight.apple.com/join/voEgmLv8)
 # [](https://github.com/pushpinderpalsingh/SpaceDash#spacedash)SpaceDash
 
 ### [](https://github.com/pushpinderpalsingh/SpaceDash#a-dashboard-for-space)A Dashboard for Space...🚀🚀🚀 
